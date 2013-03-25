@@ -29,3 +29,4 @@ var map;
             });
             map.addControl(new OpenLayers.Control.LayerSwitcher());
         }
+        
